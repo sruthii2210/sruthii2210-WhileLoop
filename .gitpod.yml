@@ -1,5 +1,5 @@
 tasks:
-  - init: git remote set-url origin git@github.com:sruthii2210/sruthii2210-WhileLoop.git && sed "s/\r$//" commit-command.sh | bash && gp open README.md
+  - init: git remote set-url origin git@github.com:sruthii2210/sruthii2210-WhileLoop.git && sed "s/\r$//" commit-command.sh | bash
 vscode:
  extensions:
    - redhat.java
